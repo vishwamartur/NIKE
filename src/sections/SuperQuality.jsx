@@ -12,7 +12,7 @@ const SuperQuality = () => {
           <span className="text-coral-red ">Quality </span>
           Shoes
         </h2>
-        <p className="mt-5 text-lg leading-8 font-montserrat text-slate-gray mb-14 sm:max-w-sm">
+        <p className="mt-5 lg:max-w-lg info-text">
           Discover styles Nike arrivals quality comfort and innovation for your
           active life.
         </p>
