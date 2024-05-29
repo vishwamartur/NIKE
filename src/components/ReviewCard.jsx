@@ -1,4 +1,4 @@
-import { star } from "../assets/icons/star.svg";
+import star from "../assets/icons/star.svg";
 
 const ReviewCard = ({ imgURL, customerName, rating, feedback }) => {
   return (
